@@ -19,7 +19,8 @@
   },
   "author": "zzswang <zzswang@gmail.com>",
   "files": [
-    "dist"
+    "dist",
+    "public"
   ],
   "bugs": {
     "url": "https://github.com/zzswang/express-swagger-fancy/issues"
