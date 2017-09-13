@@ -1,6 +1,6 @@
 {
   "name": "express-swagger-fancy",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A middleware provide fancy look swagger ui.",
   "main": "./dist/index.js",
   "scripts": {
