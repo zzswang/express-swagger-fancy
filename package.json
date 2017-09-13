@@ -1,7 +1,7 @@
 {
-  "name": "sketch-es6-basic",
+  "name": "express-swagger-fancy",
   "version": "0.1.0",
-  "description": "A well done start module template for es6, npm scripts, mocha test and babel compile.",
+  "description": "A middleware provide fancy look swagger ui.",
   "main": "./dist/index.js",
   "scripts": {
     "clean": "rm -rf dist",
@@ -15,22 +15,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:zzswang/sketch-es6-basic.git"
+    "url": "git@github.com:zzswang/express-swagger-fancy.git"
   },
   "author": "zzswang <zzswang@gmail.com>",
   "files": [
     "dist"
   ],
   "bugs": {
-    "url": "https://github.com/zzswang/sketch-es6-basic/issues"
+    "url": "https://github.com/zzswang/express-swagger-fancy/issues"
   },
-  "homepage": "https://github.com/zzswang/sketch-es6-basic",
+  "homepage": "https://github.com/zzswang/express-swagger-fancy",
   "keywords": [
-    "node",
-    "module",
-    "es6",
-    "mocha",
-    "babel"
+    "swagger",
+    "swagger.json",
+    "swagger-ui",
+    "fancy"
   ],
   "license": "MIT",
   "babel": {

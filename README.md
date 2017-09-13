@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/zzswang/express-swagger-fancy.svg?branch=master)](https://travis-ci.org/zzswang/express-swagger-fancy)
 
-
+Thanks to [jensoleg's work](https://github.com/jensoleg/swagger-ui).
 **quick preview**
 
 ![](./swagger-fancy.png)
