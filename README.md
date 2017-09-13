@@ -1,4 +1,4 @@
-# sketch-es6-basic
+# express-swagger-fancy
 
 [![Build Status](https://travis-ci.org/zzswang/express-swagger-fancy.svg?branch=master)](https://travis-ci.org/zzswang/express-swagger-fancy)
 
