@@ -5,7 +5,7 @@
   "main": "./dist/index.js",
   "scripts": {
     "clean": "rm -rf dist",
-    "compile": "./node_modules/.bin/babel ./src -d ./dist --ignore test.js",
+    "compile": "babel ./src -d ./dist --ignore test.js",
     "dev": "npm test -- -w",
     "prepublish": "npm run clean && npm run compile",
     "release": "standard-version && git push --follow-tags origin master",

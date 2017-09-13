@@ -1,12 +1,10 @@
 language: node_js
 node_js:
   - "node"
-install:
-  - npm install -g babel-cli
-  - npm install
 deploy:
   provider: npm
   email: zzswang@gmail.com
   api_key: $NPM_TOKEN
+  skip_cleanup: true
   on:
     tags: true
