@@ -51,8 +51,5 @@
   },
   "dependencies": {
     "serve-static": "1.12.4"
-  },
-  "optionalDependencies": {
-    "fsevents": "1.0.17"
   }
 }
